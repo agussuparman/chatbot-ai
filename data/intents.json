@@ -1,0 +1,23 @@
+{
+  "intents": [
+    {
+      "topic": "greeting",
+      "patterns": [
+        "Hai",
+        "Halo",
+        "Selamat Pagi",
+        "Selamat Siang",
+        "Selamat Malam"
+      ]
+    },
+    {
+      "topic": "farewell_message",
+      "patterns": [
+        "sampai berjumpa lagi, senang bertemu dengan kamu :)",
+        "aku tidak pernah ingin melihat kamu pergi :(",
+        "selamat tinggal, semoga kita bertemu kembali",
+        "semoga kita bertemu kembali dilain waktu"
+      ]
+    }
+  ]
+}
