@@ -1,4 +1,6 @@
 # ChatBot AI
+
+## How To Reproduce or Test
  ```
  python -i training.py
  
